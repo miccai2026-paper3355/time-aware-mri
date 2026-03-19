@@ -2,7 +2,7 @@
 
 **Evaluation scripts for temporal reasoning in longitudinal brain MRI interpretation**
 
-This repository contains inference code for evaluating vision-language models on the Time-Aware Multi-View MRI Benchmark, as described in our paper submitted to MICCAI 2025.
+This repository contains inference code for evaluating vision-language models on the Time-Aware Multi-View MRI Benchmark, as described in our paper submitted to MICCAI 2026.
 
 ---
 
