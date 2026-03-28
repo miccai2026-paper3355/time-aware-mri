@@ -254,14 +254,6 @@ temporal-mri-benchmark/
 | Qwen3-VL-8B | A100 40GB | ~5 hours | Free |
 | MedGemma-4B | A100 40GB | ~4 hours | Free |
 
-### Accuracy (Global Score on 4 Clinical Tasks)
-
-| Model | Global Acc | Ch. Seg. | Ch. Quant. | Temp. Ord. | Prog. Loc. |
-|-------|-----------|----------|------------|------------|------------|
-| InternVL3.5-Inst | 44.2% | 1.1% | 13.5% | 72.0% | 97.3% |
-| Qwen3-VL-8B | 43.6% | 0.0% | 12.7% | 71.4% | 96.9% |
-| GPT-4o | 36.7% | 0.9% | 12.7% | 42.8% | 95.1% |
-
 ---
 
 ## 🐛 Troubleshooting
