@@ -327,4 +327,4 @@ This code is released under MIT License. The benchmark data follows CC-BY-4.0.
 
 For questions about the benchmark or code, please open an issue in this repository.
 
-**Note**: This is an anonymous submission for MICCAI 2025 review. Full author information will be revealed upon acceptance.
+**Note**: This is an anonymous submission for MICCAI 2026 review. Full author information will be revealed upon acceptance.
